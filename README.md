@@ -117,7 +117,7 @@ Menampilkan struktur folder dan file secara hierarkis.
 
 Output-nya menunjukkan:
 
-.
+
 ├── data
 
 ├── doc
