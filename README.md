@@ -119,9 +119,13 @@ Output-nya menunjukkan:
 
 .
 ├── data
+
 ├── doc
+
 ├── main.sh
+
 ├── README.MD
+
 └── src
 
 
